@@ -1,0 +1,5 @@
+  --`user_roll` varchar(64) COLLATE utf8_unicode_ci NOT NULL,
+  --`user_gen`  varchar(64) COLLATE utf8_unicode_ci NOT NULL,
+  --`user_dob` varchar(64) COLLATE utf8_unicode_ci NOT NULL,
+  --`user_nation` varchar(64) COLLATE utf8_unicode_ci NOT NULL,
+  --`user_prof` varchar(64) COLLATE utf8_unicode_ci NOT NULL,
